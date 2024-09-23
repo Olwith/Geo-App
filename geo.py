@@ -4,7 +4,7 @@ import folium
 from geopy.geocoders import Nominatim
 from streamlit_folium import folium_static
 from flask import Flask
-from flask_socketio import SocketIO, emit
+from flask_socketio import SocketIO,emit
 import threading
 
 # Initialize Flask and SocketIO
