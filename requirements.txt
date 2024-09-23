@@ -8,5 +8,5 @@ folium_static
  flask 
 Flask
 flask_socketio 
-SocketIO, emit
+SocketIO
  threading
