@@ -1,0 +1,12 @@
+streamlit 
+ sqlite3
+ folium
+ geopy.geocoders 
+Nominatim
+streamlit_folium 
+folium_static
+ flask 
+Flask
+flask_socketio 
+SocketIO, emit
+ threading
