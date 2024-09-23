@@ -3,5 +3,5 @@ geopy
 streamlit_folium
  flask 
 Flask
-flask_socketio 
+flask_socketio
 
