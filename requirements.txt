@@ -1,6 +1,5 @@
 
  folium
- geopy.geocoders
 streamlit_folium 
 folium_static
  flask 
