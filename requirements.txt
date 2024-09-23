@@ -1,7 +1,6 @@
 
  folium
-streamlit_folium 
-folium_static
+streamlit_folium
  flask 
 Flask
 flask_socketio 
