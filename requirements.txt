@@ -1,9 +1,7 @@
-streamlit
-flask
-flask-socketio
-geopy
-folium
-pandas
+streamlit==1.20.0
+geopy==2.2.0
+folium==0.14.0
+pandas==1.5.0
 
 
 
