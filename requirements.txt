@@ -1,8 +1,7 @@
 streamlit 
  sqlite3
  folium
- geopy.geocoders 
-Nominatim
+ geopy.geocoders
 streamlit_folium 
 folium_static
  flask 
