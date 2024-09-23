@@ -90,10 +90,13 @@ events = get_events()
 # Display the map with events
 display_map(events)
 
-# Button to refresh the map
-if st.button("Refresh Map"):
-    events = get_events()
-    display_map(events)
+# Auto-refresh every 10 seconds to simulate real-time updates
+st_autorefresh(interval=10000, key="data_refresh")
+
+# After refreshing, load the latest events and update the map
+events = get_events()
+display_map(events)
+
 
 
 
